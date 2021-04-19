@@ -7,6 +7,6 @@ Bootstrap 4 Template
 6. Good Luck!
 
 **Specs**
-1. Rails 6.0.3.4
+1. Rails 6.1.3.1
 2. Ruby 3.0.0
-3. 5.0.0-beta3
+3. Bootstrap 5.0.0-beta3
